@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <NoWarn>$(NoWarn);VSTHRD200</NoWarn>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../OpenTabletDriver.UX.Theming/OpenTabletDriver.UX.Theming.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../.modules/OpenTabletDriver/OpenTabletDriver.UX/OpenTabletDriver.UX.csproj" Nullable="disable" />
+  </ItemGroup>
+</Project>
