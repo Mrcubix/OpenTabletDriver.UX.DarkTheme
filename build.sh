@@ -13,9 +13,6 @@ cp temp/OpenTabletDriver.UX.DarkTheme.dll build
 cp temp/OpenTabletDriver.UX.DarkTheme.pdb build
 cp temp/OpenTabletDriver.UX.Theming.dll build
 cp temp/OpenTabletDriver.UX.Theming.pdb build
-cp temp/ReactiveUI.dll build
-cp temp/System.Reactive.dll build
-cp temp/Splat.dll build
 
 #rm -rf temp
 

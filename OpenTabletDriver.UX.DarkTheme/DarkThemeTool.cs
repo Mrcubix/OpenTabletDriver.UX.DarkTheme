@@ -10,7 +10,6 @@ using OpenTabletDriver.UX.Theming.Extensions;
 using Eto.Forms;
 using Eto.Drawing;
 using OpenTabletDriver.Plugin.Tablet;
-using OpenTabletDriver.UX.Controls.Generic.Text;
 using OpenTabletDriver.UX.Controls.Output.Area;
 using OpenTabletDriver.UX.Controls.Generic;
 using OpenTabletDriver.UX.Controls.Bindings;
