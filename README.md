@@ -5,3 +5,15 @@ I hated every seconds of its making.
 Restart OpenTabletDriver.UX after installation for changes to take effect properly.  
 This is not a plugin you should use on the daily.  
 A lot of it is timing based so expect stuff to not work on lower end machines & work inconsistenly on higher end machines.
+
+## Output
+
+<p align="center">
+    <img src="img/Output_Page.png">
+</p>
+
+## Filters / Tools
+
+<p align="center">
+    <img src="img/Plugin_Page.png">
+</p>
